@@ -1,6 +1,5 @@
 /* 
 This script navigates to the target database and creates the EMPLOYEE table.
-Authors: Zixuan Zhang (zhan7230), John Hendrickson (hend0825), Dmitri Ivanov (ivano033), Jingyi Jin (jinxx679)
 */
 USE C4707F20U33;
 CREATE TABLE IF NOT EXISTS EMPLOYEE(
